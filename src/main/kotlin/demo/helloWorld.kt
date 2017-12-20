@@ -3,7 +3,7 @@ package demo
 fun getGreeting(): String {
     val words = mutableListOf<String>()
     words.add("Hello,")
-    words.add("Okinawa!")
+    words.add("CentOS6!")
 
     return words.joinToString(separator = " ")
 }
