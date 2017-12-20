@@ -1,4 +1,5 @@
 # 20171220_kotlin-example
+Gradleを使ったKotlinの基本ファイル（Helloworld）<br />
 <br />
 実行の仕方<br />
 cd /d    //build.gradleのあるディレクトリ<br />
